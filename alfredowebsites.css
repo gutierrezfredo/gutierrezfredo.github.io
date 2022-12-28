@@ -1,9 +1,13 @@
 /* GLOBALS & GENERAL
 ======================================= */
 
-#top .avia-post-nav { display: none; }
+#top .avia-post-nav { 
+    display: none; 
+}
 
-a { text-decoration: none !important; }
+a { 
+    text-decoration: none !important; 
+}
 
 
 /* Removes special amp &
