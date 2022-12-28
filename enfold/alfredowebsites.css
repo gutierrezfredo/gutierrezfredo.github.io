@@ -196,6 +196,12 @@ links. Because it's aligned middle by default.
     vertical-align: top !important;
 }
 
+/* Increases padding on main menu links
+------------------------------------------------------ */
+.av-main-nav > li > a {
+    padding: 0 20px;
+}
+
 
 /* HOME
 ======================================= */
