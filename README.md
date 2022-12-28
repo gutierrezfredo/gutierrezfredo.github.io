@@ -1,2 +1,2 @@
 # gutierrezfredo-enfold.github.io
-Page
+CDN for personal and client projects
