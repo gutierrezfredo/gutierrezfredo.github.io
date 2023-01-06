@@ -1,1 +1,35 @@
-a { text-decoration: none !important; }
+/* Removes underline on links
+------------------------------------------------------ */
+a { 
+    text-decoration: none !important; 
+}
+
+
+/* Removes special amp &
+------------------------------------------------------ */
+.special_amp {
+    font-family: inherit !Important;
+    font-style: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: inherit;
+    color: inherit!important;
+}
+
+
+/* Decreases padding size of color-section on mobile
+------------------------------------------------------ */
+@media only screen and (max-width: 767px) {
+    .avia-section-huge .content, .avia-section-huge .sidebar,
+    .avia-section-large .content, .avia-section-large .sidebar {
+        padding-top: 25px !important;
+        padding-bottom: 25px !important;
+    }
+}
+
+
+/* Sets normal letter spacing for titles
+------------------------------------------------------ */
+h1, h2, h3, h4, h5 {
+    letter-spacing: 0 !important;
+}
