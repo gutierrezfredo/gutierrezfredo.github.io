@@ -30,6 +30,7 @@ a {
 
 /* Sets normal letter spacing for titles
 ------------------------------------------------------ */
-h1, h2, h3, h4, h5 {
-    letter-spacing: 0 !important;
+.template-page .entry-content-wrapper h1, 
+.template-page .entry-content-wrapper h2 {
+    letter-spacing: 0;
 }
