@@ -8,7 +8,7 @@ a {
 /* Removes special amp &
 ------------------------------------------------------ */
 .special_amp {
-    font-family: inherit !Important;
+    font-family: inherit !important;
     font-style: inherit;
     font-size: inherit;
     line-height: inherit;
